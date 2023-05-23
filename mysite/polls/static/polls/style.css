@@ -1,0 +1,83 @@
+li {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 30px;
+    list-style-type: none;
+    color: rgb(39, 57, 190);
+    background-color: rgba(255, 255, 255, 0.844);
+    height: 100px;
+    width: 800px;
+    text-align: center;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+li a {
+    color: rgb(240, 140, 170);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 60px;
+    font-weight: bold;
+}
+
+h1 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 60px;
+    color:  rgb(240, 140, 170);
+    background-color: rgba(255, 255, 255, 0.844);
+    height: 100px;
+    width: 600px;
+    text-align: center;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 25px;
+}
+
+ul {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 30px;
+}
+
+label {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 30px;
+    color: rgb(240, 140, 170);
+    text-align: center;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 25px;
+    background-color: rgba(255, 255, 255, 0.844);
+    height: 100px;
+    width: 600px;
+}
+
+input[type="submit"] {
+    margin-top: 20px;
+    border-radius: 25px;
+    font-size: 30px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: rgb(240, 140, 170);
+    color: white;
+    border: none;
+    height: 50px;
+    width: 150px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+input[type="radio"] {
+    height: 30px;
+    width: 30px;
+    margin-left: 90px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 10px;
+}
+
+body {
+    background: white url("images/background.jpg") no-repeat;
+    background-size: cover;
+}
