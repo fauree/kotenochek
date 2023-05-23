@@ -2,14 +2,16 @@ li {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-size: 30px;
     list-style-type: none;
-    color: rgb(39, 57, 190);
+    color: rgb(240, 140, 170);
     background-color: rgba(255, 255, 255, 0.844);
     height: 100px;
     width: 800px;
     text-align: center;
     display: block;
+    margin-bottom: 20px;
     margin-left: auto;
     margin-right: auto;
+    border-radius: 25px;
 }
 
 li a {
@@ -19,13 +21,24 @@ li a {
     font-weight: bold;
 }
 
+a {
+    color: rgb(240, 140, 170);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 60px;
+    font-weight: bold;
+    text-align: center;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
 h1 {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-size: 60px;
     color:  rgb(240, 140, 170);
     background-color: rgba(255, 255, 255, 0.844);
     height: 100px;
-    width: 600px;
+    width: 800px;
     text-align: center;
     display: block;
     margin-left: auto;
@@ -35,7 +48,7 @@ h1 {
 
 ul {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
-    font-size: 20px;
+    font-size: 30px;
 }
 
 label {
@@ -49,7 +62,7 @@ label {
     border-radius: 25px;
     background-color: rgba(255, 255, 255, 0.844);
     height: 100px;
-    width: 600px;
+    width: 800px;
 }
 
 input[type="submit"] {
